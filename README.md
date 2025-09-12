@@ -11,3 +11,9 @@ Manual / automation testing
 Составлял баг-репорты и вёл документацию в Jira и Confluence.
 
 Связаться со мной: rinatgalievwao@gmail.com
+
+Мой опыт и навыки:
+Автоматизированное тестирование с Pytho, Selenium, Pytest, reqests.
+Работал с Swagger и Postman для тестирования API.
+Базовые знания реляционных баз данных
+Работал с Linux, есть опыт разворачивания  и администрирования серверов: zabbix и nextcloud на связках nginx/apache + php + Postresql/Mysql
