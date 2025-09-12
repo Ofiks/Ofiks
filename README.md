@@ -1,6 +1,6 @@
-## Hi there 👋
+## Привет всем, я Ринат 👋
 
-Manual / automation testing
+##Manual / automation testing
 
 Я пишу на Python
 
