@@ -19,4 +19,4 @@ Manual / automation testing
 
 Базовые знания реляционных баз данных
 
-Работал с Linux, есть опыт разворачивания  и администрирования серверов: zabbix и nextcloud на связках nginx/apache + php + PostreSQL/MySQL
+Работал с Linux, есть опыт разворачивания  и администрирования веб серверов zabbix и nextcloud на связках nginx/apache + php + PostreSQL/MySQL
