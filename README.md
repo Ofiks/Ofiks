@@ -13,10 +13,10 @@ Manual / automation testing
 Связаться со мной: rinatgalievwao@gmail.com
 
 Мой опыт и навыки:
-Автоматизированное тестирование с Pytho, Selenium, Pytest, reqests.
+Автоматизированное тестирование с Python, Selenium, Pytest, reqests.
 
 Работал с Swagger и Postman для тестирования API.
 
-Базовые знания реляционных баз данных
+Обладаю базовыми знаниями реляционных баз данных.
 
-Работал с Linux, есть опыт разворачивания  и администрирования веб серверов zabbix и nextcloud на связках nginx/apache + php + PostreSQL/MySQL
+Работал с Linux, есть опыт разворачивания и администрирования веб серверов zabbix и nextcloud на связках nginx/apache + php + PostreSQL/MySQL.
