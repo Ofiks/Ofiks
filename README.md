@@ -1,6 +1,6 @@
 # Привет всем, я Ринат 👋
 
-### Manual / Automation testing 🔎🪲
+### Manual / Automation testing 🔎
 
 О себе:
 
