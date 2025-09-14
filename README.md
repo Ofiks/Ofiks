@@ -12,8 +12,9 @@
 * Учавствовал в разработке тест-кейсов и чек-листов для проверки качества.
 * Составлял баг-репорты и вёл документацию в Google Таблицах.
 
-* email: rinatgalievwao@gmail.com
-* telegram: dmnd33
+ email: rinatgalievwao@gmail.com
+ 
+ telegram: dmnd33
 
 #### Мой опыт и навыки:
 
