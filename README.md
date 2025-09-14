@@ -26,4 +26,4 @@
 * Работал с Linux, есть опыт разворачивания и администрирования веб-серверов zabbix и nextcloud на связках nginx/apache + php + PostreSQL/MySQL, налаживания шифрования на них.
 
 #### Мои проекты:
-**[Проекты Selenium](https://github.com/Ofiks/selenium_project)**
+  **[Проекты Selenium](https://github.com/Ofiks/selenium_project)**
