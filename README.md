@@ -1,8 +1,8 @@
 # Привет всем, я Ринат 👋
 
-### Manual / Automation testing 🔎
+## Manual / Automation testing 🔎
 
-О себе:
+### О себе:
 
 #### Я пишу на Python
 
