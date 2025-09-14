@@ -15,7 +15,7 @@
 #### Связаться: 
  email: rinatgalievwao@gmail.com, telegram: dmnd33
 
-#### Мой опыт и навыки:
+#### Мои навыки:
 
 * Автоматизированное тестирование с Python, Selenium, Pytest, reqests.
 
