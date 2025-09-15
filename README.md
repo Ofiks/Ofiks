@@ -13,7 +13,7 @@
 * Составлял баг-репорты и вёл документацию в Google Таблицах.
 
 #### Связаться: 
- email: rinatgalievwao@gmail.com, telegram: Diamnd33
+ Email: rinatgalievwao@gmail.com, Telegram: Diamnd33
 
 #### Мои навыки:
 
